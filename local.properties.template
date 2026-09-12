@@ -1,0 +1,14 @@
+# Copy this file to local.properties and fill in real values.
+# local.properties is gitignored.
+
+# Android SDK location (Android Studio fills this in automatically)
+sdk.dir=/Users/you/Library/Android/sdk
+
+# Release signing config (only required for release builds)
+signing.keystore=/absolute/path/to/your-release.jks
+signing.storePassword=your-store-password
+signing.keyAlias=your-key-alias
+signing.keyPassword=your-key-password
+
+# Firebase project id (optional, only if you want it in BuildConfig)
+firebase.projectId=your-firebase-project-id

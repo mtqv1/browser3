@@ -1,0 +1,24 @@
+# Build artifacts
+build/
+.gradle/
+out/
+*.iml
+.idea/
+
+# IDE
+*.iws
+*.ipr
+.vscode/
+
+# Local config — DO NOT COMMIT
+local.properties
+google-services.json
+keystore.jks
+*.jks
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
